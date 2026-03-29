@@ -63,4 +63,6 @@ nav:
           - Oh My ZSH: dev/outils/oh-my-zsh.md
           - Starship: dev/outils/starship.md
   - APIs: apis/apis.md
-  - Blog: blog/blog.md
+  - Blog:
+      - Jeux:
+          - "Minecraft Moddé: Profiles": blog/jeux/minecraft-modde-profiles.md
